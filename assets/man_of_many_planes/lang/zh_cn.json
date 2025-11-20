@@ -1,8 +1,8 @@
 {
-  "item.man_of_many_planes.scarlet_biplane": "猩红双翼机",
-  "item.man_of_many_planes.scarlet_biplane.description": "一架性能强劲的红色双翼机，让你轻松敏捷地在天空中翱翔。",
-  "entity.man_of_many_planes.scarlet_biplane": "猩红双翼机",
-  "item.man_of_many_planes.economy_plane": "经济机",
-  "item.man_of_many_planes.economy_plane.description": "采用廉价轻便的材料打造，牺牲了舒适度以降低油耗。",
-  "entity.man_of_many_planes.economy_plane": "经济机"
+  "item.man_of_many_planes.scarlet_biplane": "猩红双翼飞机",
+  "item.man_of_many_planes.scarlet_biplane.description": "一架鲜红色的双翼飞机，让你在Minecraft中轻松惬意的航行。",
+  "entity.man_of_many_planes.scarlet_biplane": "猩红双翼飞机",
+  "item.man_of_many_planes.economy_plane": "经济型飞机",
+  "item.man_of_many_planes.economy_plane.description": "该飞机采用廉价轻质的材料制造，以降低油耗为目标，但牺牲了一定的舒适性。",
+  "entity.man_of_many_planes.economy_plane": "经济型飞机"
 }

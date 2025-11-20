@@ -1,14 +1,14 @@
 {
-  "item.netheritehorsearmor.copper_horse_armor": "Copper Horse Armor",
-  "item.netheritehorsearmor.chain_horse_armor": "Chain Horse Armor",
-  "item.netheritehorsearmor.emerald_horse_armor": "Emerald Horse Armor",
-  "item.netheritehorsearmor.netherite_horse_armor": "Netherite Horse Armor",
-  "item.netheritehorsearmor.gilded_netherite_horse_armor": "Gilded Netherite Horse Armor",
-  "item.netheritehorsearmor.enderite_horse_armor": "Enderite Horse Armor",
-  "item.netheritehorsearmor.gilded_enderite_horse_armor": "Gilded Enderite Horse Armor",
-  "tooltip.netheritehorsearmor.protection": "Protection",
-  "advancements.husbandry.netheritehorsearmor.obtain_netherite_horse_armor.title": "True Love!",
-  "advancements.husbandry.netheritehorsearmor.obtain_netherite_horse_armor.description": "Obtain a Netherite Horse Armor",
-  "advancements.husbandry.netheritehorsearmor.obtain_enderite_horse_armor.title": "Even true Love!",
-  "advancements.husbandry.netheritehorsearmor.obtain_enderite_horse_armor.description": "Obtain an Enderite Horse Armor"
+  "item.netheritehorsearmor.copper_horse_armor": "铜马铠",
+  "item.netheritehorsearmor.chain_horse_armor": "锁链马铠",
+  "item.netheritehorsearmor.emerald_horse_armor": "绿宝石马铠",
+  "item.netheritehorsearmor.netherite_horse_armor": "下界合金马铠",
+  "item.netheritehorsearmor.gilded_netherite_horse_armor": "镀金下界合金马铠",
+  "item.netheritehorsearmor.enderite_horse_armor": "末影合金马铠",
+  "item.netheritehorsearmor.gilded_enderite_horse_armor": "镀金末影合金马铠",
+  "tooltip.netheritehorsearmor.protection": "马匹保护",
+  "advancements.husbandry.netheritehorsearmor.obtain_netherite_horse_armor.title": "是真爱！",
+  "advancements.husbandry.netheritehorsearmor.obtain_netherite_horse_armor.description": "获得一件下界合金马铠",
+  "advancements.husbandry.netheritehorsearmor.obtain_enderite_horse_armor.title": "确实是真爱！！",
+  "advancements.husbandry.netheritehorsearmor.obtain_enderite_horse_armor.description": "获得一件末影合金马铠"
 }

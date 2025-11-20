@@ -16,7 +16,7 @@
   "item.shieldexp.netherite_shield": "下界合金盾牌",
   "item.shieldexp.paragon_shield": "圣尊盾牌",
   "item.shieldexp.griefer_shield": "破坏者盾牌",
-  "sounds.shieldexp.parry_sound": "Successful parry",
+  "sounds.shieldexp.parry_sound": "成功招架",
   "death.attack.partialblast": "%1$s的盾牌没能在爆炸中保护好主人",
   "shieldexp.advancements.get_diamond_shield.title": "不灭钻石",
   "shieldexp.advancements.get_diamond_shield.description": "合成一面钻石盾牌",
