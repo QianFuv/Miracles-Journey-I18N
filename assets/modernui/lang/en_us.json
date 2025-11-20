@@ -119,7 +119,7 @@
   "modernui.center.text.allowSDFTextIn2D.tooltip": "When enabled, Modern UI will use SDF text rendering if appropriate.\nOtherwise, it uses nearest-neighbor or bilinear sampling based on texel density.\nThis option only applies to outline fonts.",
   "modernui.center.text.bitmapRepl": "Bitmap Replacement",
   "modernui.center.text.emojiShortcodes": "Emoji Shortcodes",
-  "modernui.center.text.emojiShortcodes.tooltip": "When enabled, shortcodes in Chat Screen will be replaced with their Emoji sequences. For example:\n:phoenix: ‚Üí Ì†ΩÌ∞¶‚ÄçÌ†ΩÌ¥•",
+  "modernui.center.text.emojiShortcodes.tooltip": "When enabled, shortcodes in Chat Screen will be replaced with their Emoji sequences. For example:\n:phoenix: ‚Üí üê¶‚Äçüî•",
   "modernui.center.text.distanceField": "Use Distance Field",
   "modernui.center.text.allowShadow": "Allow Shadow",
   "modernui.center.text.allowAsyncLayout": "Allow Asynchronous Text Layout",

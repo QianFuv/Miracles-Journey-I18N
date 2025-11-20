@@ -83,7 +83,7 @@
   "attributeslib:elytra_flight.desc": "If you can fly as if wearing an Elytra.",
   "attributeslib:creative_flight": "Creative Flight",
   "attributeslib:creative_flight.desc": "If you can fly as if in Creative Mode.",
-  "comment_id": "MobFx - descriptions are duplicated for JEED support.",
+  "comment_id": "Damage Sources",
   "effect.attributeslib.knowledge": "Ancient Knowledge",
   "effect.attributeslib.knowledge.desc": "Increases experience gained from kills and blocks.",
   "effect.attributeslib.knowledge.description": "Increases experience gained from kills and blocks.",

@@ -1,5 +1,5 @@
 {
-  "_comment": "Tinkers Common",
+  "_comment": "Gadget Advancements",
   "block.tconstruct.sky_slime": "碧空黏液块",
   "block.tconstruct.sky_slime.tooltip": "可与黏液块和蜂蜜块相黏",
   "block.tconstruct.ichor_slime": "灵浆块",
@@ -81,7 +81,7 @@
   "block.tconstruct.soul_glass_pane.tooltip": "与普通方块相似，但是可以从中穿过",
   "block.tconstruct.glow": "荧光球",
   "block.tconstruct.silky_jewel_block": "裹绸宝石块",
-  "__comment": "Ore Metals",
+  "__comment": "Tier 3 Mod Compat Traits",
   "item.tconstruct.copper_nugget": "铜粒",
   "block.tconstruct.cobalt_ore": "下界钴矿石",
   "item.tconstruct.raw_cobalt": "粗钴",

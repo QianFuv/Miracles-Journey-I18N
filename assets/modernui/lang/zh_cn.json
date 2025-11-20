@@ -119,7 +119,7 @@
   "modernui.center.text.allowSDFTextIn2D.tooltip": "启用时，如果合适，Modern UI 会使用SDF文字渲染。\n否则，Modern UI 会根据纹素密度使用最近邻采样或双线性采样。\n该选项只适用于轮廓字体。",
   "modernui.center.text.bitmapRepl": "位图替换",
   "modernui.center.text.emojiShortcodes": "表情符号简码",
-  "modernui.center.text.emojiShortcodes.tooltip": "启用时，聊天栏中的简码将被替换成它们的 Emoji 字符串，例如：\n:phoenix: → ������‍������",
+  "modernui.center.text.emojiShortcodes.tooltip": "启用时，聊天栏中的简码将被替换成它们的 Emoji 字符串，例如：\n:phoenix: → 🐦‍🔥",
   "modernui.center.text.distanceField": "使用距离场",
   "modernui.center.text.allowShadow": "允许阴影",
   "modernui.center.text.allowAsyncLayout": "允许异步文本布局",

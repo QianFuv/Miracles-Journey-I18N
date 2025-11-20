@@ -83,7 +83,7 @@
   "attributeslib:elytra_flight.desc": "你能像穿戴鞘翅一样飞行。",
   "attributeslib:creative_flight": "创造模式飞行",
   "attributeslib:creative_flight.desc": "你能像创造模式一样飞行。",
-  "comment_id": "/MobFx - 为了支持JEED，描述是重复的。",
+  "comment_id": "Damage Sources",
   "effect.attributeslib.knowledge": "古代知识",
   "effect.attributeslib.knowledge.desc": "增加杀死生物和挖掘方块获得的经验。",
   "effect.attributeslib.knowledge.description": "增加杀死生物和挖掘方块获得的经验。",

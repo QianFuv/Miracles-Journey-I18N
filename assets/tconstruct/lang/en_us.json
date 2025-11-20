@@ -1,5 +1,5 @@
 {
-  "_comment": "Tinkers Common",
+  "_comment": "Gadget Advancements",
   "block.tconstruct.sky_slime": "Skyslime Block",
   "block.tconstruct.sky_slime.tooltip": "Sticks to both slime and honey",
   "block.tconstruct.ichor_slime": "Ichor Block",
@@ -81,7 +81,7 @@
   "block.tconstruct.soul_glass_pane.tooltip": "Acts solid, but can be walked through",
   "block.tconstruct.glow": "Glow",
   "block.tconstruct.silky_jewel_block": "Silky Block of Jewel",
-  "__comment": "Ore Metals",
+  "__comment": "Tier 3 Mod Compat Traits",
   "item.tconstruct.copper_nugget": "Copper Nugget",
   "block.tconstruct.cobalt_ore": "Nether Cobalt Ore",
   "item.tconstruct.raw_cobalt": "Raw Cobalt",
