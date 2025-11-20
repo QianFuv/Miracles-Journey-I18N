@@ -677,7 +677,7 @@
   "item.traveloptics.forlorn_harbinger.tooltip.eclipsed_sight": "]§f以启用或禁用夜视功能§c[冷却时间：10秒|消耗：每秒0.6%黑暗能量]",
   "item.traveloptics.forlorn_harbinger.tooltip.crimson_dive.start": "§e绯影坠冲：§f按下按键§b[",
   "item.traveloptics.forlorn_harbinger.tooltip.crimson_dive": "]§f以惊人的速度俯冲。落地时施放强大的冲击波，对半径为§b8格§f范围内的所有实体造成伤害。伤害随猩红法术能效而提升，每次击中敌人可恢复穿戴者最大生命值的§b10%§c[冷却时间：10秒]",
-  "item.traveloptics.forlorn_harbinger.tooltip.darkness": "���E���黑暗能量: %s",
+  "item.traveloptics.forlorn_harbinger.tooltip.darkness": "\uD810E\uDD87黑暗能量: %s",
   "item.traveloptics.trident_of_the_eternal_maelstrom.tooltip": "能力：破海者之咒",
   "item.traveloptics.trident_of_the_eternal_maelstrom.evo_one.inactive.tooltip": "§7☆ [进阶等级 1] 潮涌之苦的范围伤害增加了§3+25%",
   "item.traveloptics.trident_of_the_eternal_maelstrom.evo_one.active.tooltip": "§e★ §f[进阶等级 1] 潮涌之苦的范围伤害增加了§b+25%",
