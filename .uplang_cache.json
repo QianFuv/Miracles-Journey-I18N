@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-11-21T15:55:06.840230",
+  "last_updated": "2025-11-27T09:48:17.866934",
   "mods": {
     "accessories": {
       "jar_name": "accessories-neoforge-1.0.0-beta.48+1.20.1.jar",
@@ -681,10 +681,10 @@
       "last_sync": "2025-11-21T15:54:56.692362"
     },
     "collectorsreap": {
-      "jar_name": "collectorsreap-1.20.1-1.5.jar",
-      "en_us_hash": "b1aaca22ff245415a47bf20c8501dd9467c9304e6d4a49d90053247bb8bbf3ea",
-      "zh_cn_hash": "b18d13d0111d3639e36444c7d6505f16727d5df107093f1a8edff705e7ba424b",
-      "last_sync": "2025-11-21T15:54:56.693826"
+      "jar_name": "collectorsreap-1.20.1-1.5.1.jar",
+      "en_us_hash": "7b71e5dd1bb5793a70e6bc731043869be3d83dfaa536cb59393f8836dad8c4ed",
+      "zh_cn_hash": "466be6c16e57c85f2275f70d95f6219f1c7993a50b486ef5523ede01a60684e8",
+      "last_sync": "2025-11-27T09:48:13.050381"
     },
     "companion": {
       "jar_name": "Companion-1.20.1-Forge-5.3.1.jar",
@@ -717,10 +717,10 @@
       "last_sync": "2025-11-21T15:54:56.747864"
     },
     "constructs_casting": {
-      "jar_name": "constructs_casting-2.0.0.jar",
-      "en_us_hash": "b7ce918b96f191e92af4d4f4d8db445dc9c504f7f23e6d35bbf61168f9b5a813",
+      "jar_name": "constructs_casting-2.0.1.jar",
+      "en_us_hash": "b8dd956aa8b7b4ec426a2a484e5e5345d77bd016ac4a325e7d320f8531d83c59",
       "zh_cn_hash": null,
-      "last_sync": "2025-11-21T15:54:56.755637"
+      "last_sync": "2025-11-27T09:48:13.054443"
     },
     "continuity": {
       "jar_name": "continuity-3.0.0+1.20.1.forge.jar",
@@ -813,22 +813,22 @@
       "last_sync": "2025-11-21T15:54:56.909454"
     },
     "createcasing": {
-      "jar_name": "Create Encased-1.20.1-1.7.2-fix1.jar",
+      "jar_name": "Create Encased-1.20.1-1.7.2-fix2.jar",
       "en_us_hash": "cc5780402ba5087356f9409d19b83d320f846a67e209e45fb93513751011111e",
-      "zh_cn_hash": "4cead9c33b1883d79363c3b368a73117be8e25ccc4640e4334493fc5ae733f0e",
-      "last_sync": "2025-11-21T15:54:57.035083"
+      "zh_cn_hash": "e91b4b2cf7bd658de1e6e284a3f46b44be4f825acd13f45a7a03d648a8a62dda",
+      "last_sync": "2025-11-27T09:48:13.218306"
     },
     "extendedwrenches": {
-      "jar_name": "create-extended-wrenches-1.20.1-1.3.0.jar",
-      "en_us_hash": "70f8cf84315b40235747c9c1018b6bf359b069c0c600a8a40d082f90c075fbfc",
+      "jar_name": "create-extended-wrenches-1.20.1-2.0.0.jar",
+      "en_us_hash": "937f9608b3d067da4d03457e5b6ee97ad2276f3d16e871f96902650052736ac9",
       "zh_cn_hash": null,
-      "last_sync": "2025-11-21T15:54:57.095846"
+      "last_sync": "2025-11-27T09:48:13.310649"
     },
     "createqol": {
-      "jar_name": "Create Quality of Life-1.20.1-1.6.1.jar",
-      "en_us_hash": "d5dc18be0f5d6aa2aceb3a38e659f640a58eee52a4e11437c7e859df155b3ac8",
+      "jar_name": "Create Quality of Life-1.20.1-1.6.2.jar",
+      "en_us_hash": "d0b7e3605c1f2479af571f7f3ef319b96b3f4393c52710071dfdb1010c749306",
       "zh_cn_hash": null,
-      "last_sync": "2025-11-21T15:54:57.097668"
+      "last_sync": "2025-11-27T09:48:13.310079"
     },
     "create_new_age": {
       "jar_name": "create-new-age-forge-1.20.1-1.1.4.jar",
@@ -843,10 +843,10 @@
       "last_sync": "2025-11-21T15:54:57.294113"
     },
     "create": {
-      "jar_name": "create-1.20.1-6.0.6.jar",
-      "en_us_hash": "a18253caf3b8ed45c34849cbdffa5376490b141ef2bc4a0bc7d4d5ee1f4e87fb",
-      "zh_cn_hash": "5b9ad1a2a51873504c51acf225e2a3c156d5f339ec1684abe75520e68c613912",
-      "last_sync": "2025-11-21T15:54:57.320051"
+      "jar_name": "create-1.20.1-6.0.8.jar",
+      "en_us_hash": "ce49c2e8a0d9f4947396ba22e2de4be65dd9892b8867300b8f061af8803b7bc6",
+      "zh_cn_hash": "09549e9efd1d6503142040e82ed9db5ef7aff4ba58753249c20077cbf369bccc",
+      "last_sync": "2025-11-27T09:48:13.522216"
     },
     "createaddition": {
       "jar_name": "createaddition-1.20.1-1.3.2.jar",
@@ -903,10 +903,10 @@
       "last_sync": "2025-11-21T15:54:57.513810"
     },
     "createframed": {
-      "jar_name": "createframed-1.20.1-1.6.5.jar",
-      "en_us_hash": "480f4eca4534eeac8f70e4afe70c935fc23bf4d091f6f0dfa66b48c145215f15",
-      "zh_cn_hash": "9214eb09d078b65caef0fb016d38531581f832bd23343a869545d10a17f4eebb",
-      "last_sync": "2025-11-21T15:54:57.520082"
+      "jar_name": "createframed-1.7.0.jar",
+      "en_us_hash": "f506771dd70a0085e1eefe1a834b468545a61d388ec3211008321e5e80d446a4",
+      "zh_cn_hash": "722c8c1ed1c2aa7342bd1180077108d65ad1eeb8bf138966edfff4f273776dda",
+      "last_sync": "2025-11-27T09:48:13.615898"
     },
     "createmetallurgy": {
       "jar_name": "createmetallurgy-0.0.7-HF-1.20.1.jar",
@@ -927,10 +927,10 @@
       "last_sync": "2025-11-21T15:54:57.590261"
     },
     "createrailwaysnavigator": {
-      "jar_name": "createrailwaysnavigator-forge-1.20.1-beta-0.8.4-C6.jar",
+      "jar_name": "createrailwaysnavigator-forge-1.20.1-beta-0.8.5-C6.jar",
       "en_us_hash": "c02211c3615d5dd9bca1a5e444e44635595765ac3c6607fc46f8c097ec97fcd6",
-      "zh_cn_hash": "5006024c2d94795f9469d139b3da4517186ab947185dd6af5c32916983e4dedd",
-      "last_sync": "2025-11-21T15:54:57.591980"
+      "zh_cn_hash": "319c30d623195cd622b3e8e3515a7f43baf461e56dd8aed52d41da6093bc5cc9",
+      "last_sync": "2025-11-27T09:48:13.611001"
     },
     "createutilities": {
       "jar_name": "createutilities-0.3.2+1.20.1.jar",
@@ -951,10 +951,10 @@
       "last_sync": "2025-11-21T15:54:57.649081"
     },
     "create_connected": {
-      "jar_name": "create_connected-1.1.7-mc1.20.1-all.jar",
+      "jar_name": "create_connected-1.1.10-mc1.20.1-all.jar",
       "en_us_hash": "5f9f532a38c5d7b21eb1aef94d6b89afd1e89515a776c4d311bfe767bf415be8",
-      "zh_cn_hash": "4e65e44b7a42acf5fe35bc064a2ed4b6bd2b68360e777ed91279dc1c1fd8b31a",
-      "last_sync": "2025-11-21T15:54:57.659183"
+      "zh_cn_hash": "027567b21e872081836f75085e193f7b35c17823691df40eabfe166309b35ce0",
+      "last_sync": "2025-11-27T09:48:13.657168"
     },
     "create_cultivation": {
       "jar_name": "create_cultivation-0.1.3.jar",
@@ -987,10 +987,10 @@
       "last_sync": "2025-11-21T15:54:57.685209"
     },
     "create_hypertube": {
-      "jar_name": "create_hypertube-0.2.6-hotfix-FORGE.jar",
-      "en_us_hash": "f09a6ef37d7a65ae618cdbda0d4a6535a73fc8a6a762cf2f22d2bdfbb0f5a5cc",
-      "zh_cn_hash": "6c7218f653a0893ff00c9b4e5d1e42540234d2521707d230837cbf1b92375400",
-      "last_sync": "2025-11-21T15:54:57.688782"
+      "jar_name": "create_hypertube-0.3.0-FORGE.jar",
+      "en_us_hash": "4a1bbc59c05f0a5f6580245e8afd9336b5f1e2d4a490aced3d9b0d192920a964",
+      "zh_cn_hash": "da223e5f9e67c60856f8ae6875bc2ab0031e4bfd6f9b4cd94b040dee6dc2b912",
+      "last_sync": "2025-11-27T09:48:13.673618"
     },
     "create_jetpack": {
       "jar_name": "create_jetpack-forge-4.4.5.jar",
@@ -1005,10 +1005,10 @@
       "last_sync": "2025-11-21T15:54:57.701827"
     },
     "create_mobile_packages": {
-      "jar_name": "create_mobile_packages-1.20.1-0.5.5.jar",
-      "en_us_hash": "6b517cb230c48e6406419985f4ebb60ac228824bd1b7aff7f2e31ef41efece50",
+      "jar_name": "create_mobile_packages-1.20.1-0.6.0-Beta-02.jar",
+      "en_us_hash": "5ed44222babae5a600de2df9d36b942b1fc7f7c8519fa755a2765a314791cdf0",
       "zh_cn_hash": "c3e6e1475688ddda533814d390af49cfa3b0451ca586a422c230c4c35abab187",
-      "last_sync": "2025-11-21T15:54:57.709018"
+      "last_sync": "2025-11-27T09:48:13.683512"
     },
     "create_things_and_misc": {
       "jar_name": "create_misc_and_things_ 1.20.1_4.0A.jar",
@@ -1077,10 +1077,10 @@
       "last_sync": "2025-11-21T15:54:57.807463"
     },
     "ctl": {
-      "jar_name": "ctl-forge-1.0.1-C6.jar",
-      "en_us_hash": "955cdc5da12bad7f1adc344fdbea23f161812d639d280462161441be4c316314",
+      "jar_name": "ctl-forge-1.0.2-C6.jar",
+      "en_us_hash": "06330747a7f7597c60460d19e238eaf7459fa453cf8aa97b51c1b46a583c551d",
       "zh_cn_hash": null,
-      "last_sync": "2025-11-21T15:54:57.810477"
+      "last_sync": "2025-11-27T09:48:13.711420"
     },
     "crystallized": {
       "jar_name": "crystallized-1.1-FORGE.jar",
@@ -1137,10 +1137,10 @@
       "last_sync": "2025-11-21T15:54:57.887521"
     },
     "dawnoftimebuilder": {
-      "jar_name": "dawnoftimebuilder-forge-1.20.1-1.5.37.jar",
-      "en_us_hash": "58430da74637abd8497624cb3283d6086c54f5fe2a6c067d1639127b61073ee5",
+      "jar_name": "dawnoftimebuilder-forge-1.20.1-1.5.39.jar",
+      "en_us_hash": "05b2caf473f5d30c32a21c5ea4d3d6af5e707591527051bb6d5bfefb76a174dc",
       "zh_cn_hash": "0e44e9e5e3d869b7d4b8c83038d3fc778c7a6252744953b2b740f1ce115f0d9e",
-      "last_sync": "2025-11-21T15:54:57.936918"
+      "last_sync": "2025-11-27T09:48:13.826887"
     },
     "decoration_delight": {
       "jar_name": "decoration-delight-1.20.1.jar",
@@ -1227,10 +1227,10 @@
       "last_sync": "2025-11-21T15:54:58.132586"
     },
     "doespotatotick": {
-      "jar_name": "doespotatotick-1.20.1-5.4.3.jar",
-      "en_us_hash": "2ce0799355be35ddc104b0229564b7337163dd462e460ca44b53ac46c7645530",
-      "zh_cn_hash": "52fdeb4334bd71c2e0bfe192d3dccdbc9f13aee524736707b22f6b98c46c96cd",
-      "last_sync": "2025-11-21T15:54:58.133520"
+      "jar_name": "doespotatotick-1.20.1-5.5.2.jar",
+      "en_us_hash": "1e5b56689ac31dce934fe14caf9582e38fb56f0b2b187ae9490dd3caf86d645b",
+      "zh_cn_hash": "d7b6b4b8d81ca7c24dbdc6be3120e54501782ae0f8dbceb26ed292c148d36d66",
+      "last_sync": "2025-11-27T09:48:13.884565"
     },
     "dragonmounts": {
       "jar_name": "dragonmounts-1.20.1-1.2.3-beta.jar",
@@ -1257,10 +1257,10 @@
       "last_sync": "2025-11-21T15:54:58.209252"
     },
     "drippyloadingscreen": {
-      "jar_name": "drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar",
-      "en_us_hash": "11c71f305b89392e91059a069d330e9994b6fe094881829532a8410692a91f93",
-      "zh_cn_hash": null,
-      "last_sync": "2025-11-21T15:54:58.233874"
+      "jar_name": "drippyloadingscreen_forge_3.1.0_MC_1.20.1.jar",
+      "en_us_hash": "632ec9ab2137fc5d0ad6c9ff2fa8ce1141418d6c906b4b8b9088c38b52294d20",
+      "zh_cn_hash": "d1e58385f4fbbce3968cdae97fc448ef3e35c839dc12c1c7efa080f5b00b3752",
+      "last_sync": "2025-11-27T09:48:13.921754"
     },
     "dummmmmmy": {
       "jar_name": "dummmmmmy-1.20-2.0.9.jar",
@@ -1353,10 +1353,10 @@
       "last_sync": "2025-11-21T15:54:58.440825"
     },
     "eidolon": {
-      "jar_name": "eidolon_repraised-1.20.1-0.3.9.1-alpha.jar",
-      "en_us_hash": "cde10127e2b3d80b21f4c688904ffad65854e3a0558171a5463aac573e5c0198",
+      "jar_name": "eidolon_repraised-1.20.1-0.3.9.5.jar",
+      "en_us_hash": "3a9ea1c7c0224e62fda4bf5ae679a761d930af00fd20030cc3878ab4ba5296ff",
       "zh_cn_hash": "9a20f048e396087c8d13b3859bd20830a2178f5eeebe5bfe5bc85993dbe11300",
-      "last_sync": "2025-11-21T15:54:58.459787"
+      "last_sync": "2025-11-27T09:48:14.037963"
     },
     "enchantedpotato": {
       "jar_name": "enchantedpotato-1.20.1-1.8.4.jar",
@@ -1443,10 +1443,10 @@
       "last_sync": "2025-11-21T15:54:58.606923"
     },
     "entity_model_features": {
-      "jar_name": "entity_model_features_1.20.1-forge-3.0.1.jar",
-      "en_us_hash": "f75d5b00a03c590211ad8151ca9c6f7f7b94b8b0a7df4cd32d1524a0b56be0d7",
-      "zh_cn_hash": "8814397a326bcfc9cdc0c2ec8092a2c4f0997514d5f0ffc0723d06bffca65a8a",
-      "last_sync": "2025-11-21T15:54:58.684941"
+      "jar_name": "entity_model_features_1.20.1-forge-3.0.7.jar",
+      "en_us_hash": "076d184478e9e885309d306281e7a5ef3a8d709d86a02636696dc03c8c4c25e4",
+      "zh_cn_hash": "5884ed4b49e33fd482a051aeff409a9257d51f5e4b11e97c69d471baac19d2ac",
+      "last_sync": "2025-11-27T09:48:14.178584"
     },
     "environmental": {
       "jar_name": "environmental-1.20.1-4.1.2.jar",
@@ -1455,10 +1455,10 @@
       "last_sync": "2025-11-21T15:54:58.722950"
     },
     "entity_texture_features": {
-      "jar_name": "entity_texture_features_1.20.1-forge-7.0.2.jar",
-      "en_us_hash": "e3c3fbf5db5c5b7c384b8335cc09ad538d8673f5f1ef7d83ca4e2c906dfda85f",
+      "jar_name": "entity_texture_features_1.20.1-forge-7.0.6.jar",
+      "en_us_hash": "3ee3eeebd21ec8a94c92c132c38d219a096aa926354ecf18335cc21d3cb4dded",
       "zh_cn_hash": "2be6b215d08da858c8f0322ada544c7ac9c0f0fd0e97295985177bd91d6c7963",
-      "last_sync": "2025-11-21T15:54:58.734519"
+      "last_sync": "2025-11-27T09:48:14.184261"
     },
     "escalated": {
       "jar_name": "escalated-1.1.0-create.6.0.6-mc.1.20.1-forge.jar",
@@ -1593,10 +1593,10 @@
       "last_sync": "2025-11-21T15:54:59.122293"
     },
     "fancymenu": {
-      "jar_name": "fancymenu_forge_3.7.0_MC_1.20.1.jar",
-      "en_us_hash": "17d2d3627d8b1b65f1ed9932e48ca1e0e1867c729ae891955e3aac248e0d9c73",
-      "zh_cn_hash": "09ffa1e0fbafdd0dea75382b0ab94c081971a94ca69df6bf8922ce33e634b1c0",
-      "last_sync": "2025-11-21T15:54:59.175160"
+      "jar_name": "fancymenu_forge_3.8.1_MC_1.20.1.jar",
+      "en_us_hash": "8d131fab5d2185ab7bf1080180b96b36e00e7dc7fbbec8ff6122699d21c0617b",
+      "zh_cn_hash": "90c60e744be39b36e4e0330c999331b70b6433dd8c6beae3b62ff8bd1497494d",
+      "last_sync": "2025-11-27T09:48:14.548890"
     },
     "farmingforblockheads": {
       "jar_name": "farmingforblockheads-forge-1.20.1-14.0.4.jar",
@@ -1863,10 +1863,10 @@
       "last_sync": "2025-11-21T15:55:00.231867"
     },
     "hexflow": {
-      "jar_name": "hexFlow-forge-1.20.1-0.3.1.jar",
-      "en_us_hash": "a24189c8a98734bb7394c575173b5a2deab3a2cf687633f1c6e6864aac8d7c7e",
-      "zh_cn_hash": "69b925d1559d9dca2b3b187fab93f9ea6c0179e4a79731bdfdce07bdc693fb6a",
-      "last_sync": "2025-11-21T15:55:00.370319"
+      "jar_name": "hexFlow-forge-1.20.1-0.3.3.jar",
+      "en_us_hash": "b117f0f7573fc69a4fcde385f333ca0d40f55311509430168ee08d618fcd5dfc",
+      "zh_cn_hash": "907df53cfddd8c2e17a3c7f75c1e3c25adc4ca528b1e798bb06a47fce309fec7",
+      "last_sync": "2025-11-27T09:48:15.052239"
     },
     "hexerei": {
       "jar_name": "hexerei-0.4.2.3.jar",
@@ -1875,16 +1875,16 @@
       "last_sync": "2025-11-21T15:55:00.423071"
     },
     "hexoverpowered": {
-      "jar_name": "HexOverpowered-forge-1.20.1-0.9.0.jar",
-      "en_us_hash": "b3be702d7302a9f0ef4a0d977c077635c5e7fb3d97a8b1dcf526efb26657c5dc",
-      "zh_cn_hash": "6ba3ad94f0613779e82655d72af575f9cbfaade80e9bb5ee11e446d7344f5748",
-      "last_sync": "2025-11-21T15:55:00.454766"
+      "jar_name": "HexOverpowered-forge-1.20.1-0.10.2.jar",
+      "en_us_hash": "0597565e1193ed5e360b2295bf91f0310453aba69229c47b105617e83d0f8b96",
+      "zh_cn_hash": "fe9b85fb721e197050f8d926e119e4225281489b416cf188578e203235eabd9e",
+      "last_sync": "2025-11-27T09:48:15.051267"
     },
     "hexcasting": {
-      "jar_name": "hexcasting-forge-1.20.1-0.11.2.jar",
-      "en_us_hash": "c0be1175a967358203fb34e903cdf8499f30f0839329906f3e6f7ca8ce9ab17b",
-      "zh_cn_hash": "a6a4c30bb35ac54bb2d3b6070ae7eb11809c819a0e9e0f4661f2e56c1411b778",
-      "last_sync": "2025-11-21T15:55:00.469186"
+      "jar_name": "hexcasting-forge-1.20.1-0.11.3.jar",
+      "en_us_hash": "1e0ae7dc3e9b221598a77f5cf37a7989aba717c819befb703ec4cfe4c33689ea",
+      "zh_cn_hash": "4c76bd7365bf6f2e57bcc2b910f080a4cb6775cae3662f785e6af69c3d12ed8e",
+      "last_sync": "2025-11-27T09:48:15.105266"
     },
     "hexparse": {
       "jar_name": "hexParse-forge-1.20.1-1.5.1.jar",
@@ -2463,10 +2463,10 @@
       "last_sync": "2025-11-21T15:55:01.997618"
     },
     "moresnifferflowers": {
-      "jar_name": "MoreSnifferFlowers-1.20.1-Forge-6.4.1.jar",
-      "en_us_hash": "ce2d8c40808f97e338be584c8c4b956f6d51b32c603a52d1e277a1a2185f430c",
+      "jar_name": "MoreSnifferFlowers-1.20.1-Forge-6.5.jar",
+      "en_us_hash": "3fc3a68e504b14b64900f1dfea1d184478aaf1a6872f98ea6d15f6bd476f4b3d",
       "zh_cn_hash": "93b4cbd2e6787afeed0217be68065d09f43f8ed842a1140c8599c3ad012f4f51",
-      "last_sync": "2025-11-21T15:55:02.025645"
+      "last_sync": "2025-11-27T09:48:15.897896"
     },
     "morevillagers": {
       "jar_name": "morevillagers-forge-1.20.1-5.0.0.jar",
@@ -2667,10 +2667,10 @@
       "last_sync": "2025-11-21T15:55:02.447723"
     },
     "parcool": {
-      "jar_name": "ParCool-1.20.1-3.4.1.5.jar",
-      "en_us_hash": "04ad213fd471677cef5c6c7012c8e15dbab0f2a57ba1597d73701f69a430c6b7",
+      "jar_name": "ParCool-1.20.1-3.4.2.0.jar",
+      "en_us_hash": "520763fab15d45bee581bd77540d91fe397a66f7d9854894989f54d0375f84d2",
       "zh_cn_hash": "d3d5255ccf2965a67e2ecfc587f0460b4a55ffe0a96152dcc53da0582bf473fe",
-      "last_sync": "2025-11-21T15:55:02.464017"
+      "last_sync": "2025-11-27T09:48:16.004195"
     },
     "passablefoliage": {
       "jar_name": "PassableFoliage-1.20.1-forge-8.2.1.jar",
@@ -2679,10 +2679,10 @@
       "last_sync": "2025-11-21T15:55:02.465502"
     },
     "create_pattern_schematics": {
-      "jar_name": "pattern_schematics-1.2.3+forge-1.20.1.jar",
-      "en_us_hash": "09976d8e9c1e04d8ebbff03d4480a3c5b23b9f88692d9896a2e5469a6fc20dae",
+      "jar_name": "create_pattern_schematics-1.3.3.jar",
+      "en_us_hash": "5e31987d77003a7a86d4da83cf33ac3aca3b9ee64df36e57afef31ba463b1a0e",
       "zh_cn_hash": "4c5edaaf1de39acad3f586fe96549ae88cd2fbe11a5c300dd44b413b1d707793",
-      "last_sync": "2025-11-21T15:55:02.476152"
+      "last_sync": "2025-11-27T09:48:13.687259"
     },
     "patchouli": {
       "jar_name": "Patchouli-1.20.1-84.1-FORGE.jar",
@@ -3867,10 +3867,10 @@
       "last_sync": "2025-11-21T15:55:06.408015"
     },
     "xaeroplus": {
-      "jar_name": "XaeroPlus-2.29.0+forge-1.20.1-WM1.39.12-MM25.2.10.jar",
-      "en_us_hash": "a866dd3c7de3964412af2cc1f8c2f07ab8a177c65fe0eb9eb6bb595cae690bf1",
-      "zh_cn_hash": "7697cf70073a8aebcf7e4bcdb735a6310cdb8c9a4f08d17a2c47d18c20332e59",
-      "last_sync": "2025-11-21T15:55:06.420100"
+      "jar_name": "XaeroPlus-2.29.1+forge-1.20.1-WM1.39.12-MM25.2.10.jar",
+      "en_us_hash": "aec7753ae08e001e868c00dc9c1086dc641703aa069904b295fd6fd273665751",
+      "zh_cn_hash": "e903e2f68b3cadd528de7a55079bc48574bf0f5aa22169a50bb2af04833434cf",
+      "last_sync": "2025-11-27T09:48:17.649773"
     },
     "xaeroworldmap": {
       "jar_name": "XaerosWorldMap_1.39.12_Forge_1.20.jar",
@@ -4003,6 +4003,12 @@
       "en_us_hash": "fbc0b6eb329b7b761d5be40a619fd72892386d9844149d6321fbf06ca54e79a2",
       "zh_cn_hash": "d30d5e42c11496796ef8c35e7c5020754950d8883f880dff4b245b0b56e4a38c",
       "last_sync": "2025-11-21T15:55:06.839728"
+    },
+    "rechiseled_chipped": {
+      "jar_name": "rechiseled_chipped-1.3.1-1.20.1.jar",
+      "en_us_hash": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-27T09:48:16.286625"
     }
   }
 }

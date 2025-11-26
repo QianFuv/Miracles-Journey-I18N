@@ -666,6 +666,10 @@
   "eidolon.codex.chapter.censer": "香炉",
   "eidolon.codex.page.censer.title": "香炉",
   "eidolon.codex.page.censer": "香炉是为无需鲜血的神祇供奉 祭品的方式。可在其中放入草 药，点燃香炉时它便会燃烧殆 尽。仅是在祭坛上放有香炉也 会提升两点容量。",
+  "eidolon_repraised.codex.page.incense.1": "The restoration and the gloom mixtures are opposites of each other, like the herbs used to make it. While the Oanna heals the living and harm the dead, the Mirecap heals undead and harm any living that get close to the censer.",
+  "eidolon_repraised.codex.page.incense.2": "The use of an holy symbol to consecrate the deathbane incense makes it a very effective repellent against undead creatures. On the other hand, by diffusing the essence of death in the air, the undeath incense curses whoever inhales it to temporarily behave like an undead.",
+  "eidolon_repraised.codex.page.incense.3": "Mixing herbs with some ingredients can make incenses slightly stronger than their potion counterparts. The Tough incense bolsters armor, Bloodlust increases melee damage, Quicken boosts movement speed and Soul Harvest improves loot and experience gain from slain creatures. Finally, the Purity incense cleanses negative status effects from those nearby.",
+  "eidolon_repraised.codex.page.incense.4": "Some herbs combinations are pretty nasty and can be used as traps. Opposite of the tough incense, the frail incense reduces armor points. Based on the Avennian Sprig, the Frostbind incense chills the air around, slowing down movement and preventing health regeneration while the Tether incense prevents teleportation.",
   "eidolon.codex.chapter.dark_prayer": "暗黑祷词",
   "eidolon.codex.page.dark_prayer.0.title": "暗黑祷词",
   "eidolon.codex.page.dark_prayer.0": "在祭坛前咏唱上述祷词，以取 悦暗黑之主，并尝试获其恩惠。",
@@ -753,6 +757,9 @@
   "eidolon.codex.page.mana.title": "魔能",
   "eidolon.codex.page.mana": "你的祷告对象接受了你的祷 词，并给予了你使用魔法的能 力。你的身体无法自然产生魔 能，因此只能通过请求和祷告 重新填充魔能条。",
   "eidolon.codex.page.mana.1": "每次唱诵祷词和献上牲祭后所 获魔能的多少取决于祭坛威能 的大小，而祭坛的容量和你的 敬拜则会增加你体内的魔能上 限。",
+  "eidolon.codex.chapter.scriptorium": "Scriptorium",
+  "eidolon.codex.page.scriptorium.title": "Scriptorium",
+  "eidolon.codex.page.scriptorium": "In the scriptorium you can use parchments to write down sign combinations to use on the fly, without the need of the Ars Ecclesia. Just like with the codex, you will need to learn the signs first. For some reason, the resulting Chant Scrolls seem to deteriorate each time its chant is performed.",
   "eidolon.codex.chapter.light": "光芒之歌",
   "eidolon.codex.page.light.title": "光芒",
   "eidolon.codex.page.light": "光芒之歌是一种简单咒语，会 消耗魔能并创造一小团光球。 是你在黑暗中的光亮，也是家 园的时髦装饰。",
@@ -879,5 +886,6 @@
   "eidolon.ritual.recharging_soulfire": "魂火充能",
   "eidolon.ritual.recharging_chill": "刺骨充能",
   "key.eidolon.open_docs": "打开秘仪教典",
-  "key.categories.eidolon": "幻梦：再颂"
+  "key.categories.eidolon": "幻梦：再颂",
+  "eidolon.message.reputation_locked": "This patron won't be appeased until you use your new knowledge"
 }

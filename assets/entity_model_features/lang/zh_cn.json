@@ -1,4 +1,6 @@
 {
+  "entity_model_features.config.armor_hack": "Armor copies custom animations",
+  "entity_model_features.config.armor_hack.tooltip": "In 1.21.9+ armor no longer naturally copies the custom animations of the base model, this replicates that old behaviour.",
   "entity_model_features.config.animate_once": "为每个实体制作一次模型动画",
   "entity_model_features.config.animate_once.tooltip": "默认情况下启用\n该设置使实体模型对每个渲染的实体仅设置一次动画\n实际游戏中表现完全正常，但是在物品栏界面中看到的生物会奇怪地闪烁\n所见模型对应世界上你已经看到的真实的生物时尤甚",
   "entity_model_features.config.debug": "调试",

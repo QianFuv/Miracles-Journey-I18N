@@ -1,6 +1,7 @@
 {
   "config.entity_features": "实体特性模组设置",
   "config.entity_features.optifine_settings": "OptiFine兼容性",
+  "config.entity_features.search": "Search...",
   "config.entity_texture_features.settings_button_loc.title": "设置按钮位置",
   "config.entity_texture_features.settings_button_loc.tooltip": "设置在资源包菜单中ETF设置按钮出现的位置。\n或完全禁用它。",
   "config.entity_features.button_tooltip": "打开实体特性配置界面。",
