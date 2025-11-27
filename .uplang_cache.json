@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-11-28T09:41:40.500052",
+  "last_updated": "2025-11-28T10:30:21.624727",
   "mods": {
     "accessories": {
       "jar_name": "accessories-neoforge-1.0.0-beta.48+1.20.1.jar",
@@ -3363,10 +3363,10 @@
       "last_sync": "2025-11-21T15:55:04.610264"
     },
     "tconjei": {
-      "jar_name": "tconjei-1.20.1-1.5.0.jar",
-      "en_us_hash": "810ed749ebff339c008da8987ddfbe9c6e50610198774f9538372e34db850c78",
-      "zh_cn_hash": "1c1e71bc050500ad575f54bafbc162041cefa0fc5214998e482a6b5523e409ea",
-      "last_sync": "2025-11-28T09:41:39.689468"
+      "jar_name": "tconjei-1.20.1-1.5.1-all.jar",
+      "en_us_hash": "a2c380c5b9b1258e2eb4d8b75ba9f0dc67e63df2d227584a5d8615f956ada61e",
+      "zh_cn_hash": "be15ae92d4ca84bd73e912d7deed6b30f1731e44b489e420e086f8499ac697c7",
+      "last_sync": "2025-11-28T10:30:08.641017"
     },
     "tcintegrations": {
       "jar_name": "TCIntegrations-1.20.1-2.0.25.17.jar",
