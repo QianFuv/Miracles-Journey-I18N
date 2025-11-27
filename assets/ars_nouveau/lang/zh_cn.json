@@ -103,6 +103,7 @@
   "ars_nouveau.automation": "自动化",
   "ars_nouveau.automation_desc": "魔法自动化",
   "ars_nouveau.binding_inventories": "绑定库存",
+  "ars_nouveau.book.landing_text": "新生魔艺提供了法术制作、魔法设备、强力饰品和魔法实体自动化。如果你想帮助开发或者报告问题，请加入我们的社区：https://discord.gg/y7TMXZu。感谢你的游玩。",
   "ars_nouveau.book.name": "破旧的笔记本",
   "ars_nouveau.bookwyrm.strict_mode": "严格模式设定为%s",
   "ars_nouveau.bound_script": "绑定手稿：%s",

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-11-28T10:30:21.624727",
+  "last_updated": "2025-11-28T10:46:27.076480",
   "mods": {
     "accessories": {
       "jar_name": "accessories-neoforge-1.0.0-beta.48+1.20.1.jar",
@@ -214,9 +214,9 @@
     },
     "ars_nouveau": {
       "jar_name": "ars_nouveau-1.20.1-4.12.7-all.jar",
-      "en_us_hash": "159bc0a19849eeec5333b7da184b986dda3a726943d171b5a2bce9881614e0ac",
-      "zh_cn_hash": "be65b92c3638191f5a6a22d1b40d9a4edcbf40bdcca5374fce1e411aa8e89186",
-      "last_sync": "2025-11-21T15:54:55.262013"
+      "en_us_hash": "a68b99e50fca244bc7780438462e524370645e1c31d994e620619e6bfd0ce09b",
+      "zh_cn_hash": "bf2f5a24624829107af6b5096df86bd4949db620df97ee9f4b016c8c893c678e",
+      "last_sync": "2025-11-28T10:46:21.190308"
     },
     "artifacts": {
       "jar_name": "artifacts-forge-9.5.16.jar",
@@ -826,9 +826,9 @@
     },
     "createqol": {
       "jar_name": "Create Quality of Life-1.20.1-1.6.2.jar",
-      "en_us_hash": "d0b7e3605c1f2479af571f7f3ef319b96b3f4393c52710071dfdb1010c749306",
+      "en_us_hash": "027c36a7c89f422259ee7fcfc34fa1ad26f5ea627316f6ecadd86aa6011d2b51",
       "zh_cn_hash": null,
-      "last_sync": "2025-11-27T09:48:13.310079"
+      "last_sync": "2025-11-28T10:46:22.174125"
     },
     "create_new_age": {
       "jar_name": "create-new-age-forge-1.20.1-1.1.4.jar",
@@ -1336,9 +1336,9 @@
     },
     "enchdesc": {
       "jar_name": "EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
-      "en_us_hash": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "en_us_hash": "a1b5b9523ff4ee57776438c529a3e4cc96ca44e225c4d68f65087b4ba3a153ea",
       "zh_cn_hash": "749792e169e51a051c67a8468326be6f803a8c929e5ac6bc2d05b27b2a1e714f",
-      "last_sync": "2025-11-21T15:54:58.440825"
+      "last_sync": "2025-11-28T10:46:22.718141"
     },
     "eidolon": {
       "jar_name": "eidolon_repraised-1.20.1-0.3.9.5.jar",
@@ -1396,9 +1396,9 @@
     },
     "endrem": {
       "jar_name": "endrem_forge-5.3.3-R-1.20.1.jar",
-      "en_us_hash": "87cb05545e1802abcf3406a546ff301c85d77fd76a4dceb269a49f57e483b0aa",
+      "en_us_hash": "7d567d800f5c26b2b87de2080f00315a65070ac875f3c7b8dbba17032718568b",
       "zh_cn_hash": "77cfee7f88ebb5b06b5348164c5ea36dd90ddb0d94f3f92a7157a240fb41a2e4",
-      "last_sync": "2025-11-21T15:54:58.552430"
+      "last_sync": "2025-11-28T10:46:22.746812"
     },
     "enhancedcelestials": {
       "jar_name": "Enhanced-Celestials-forge-1.20.1-5.0.3.1.jar",
@@ -1432,9 +1432,9 @@
     },
     "entity_model_features": {
       "jar_name": "entity_model_features_1.20.1-forge-3.0.7.jar",
-      "en_us_hash": "076d184478e9e885309d306281e7a5ef3a8d709d86a02636696dc03c8c4c25e4",
-      "zh_cn_hash": "5884ed4b49e33fd482a051aeff409a9257d51f5e4b11e97c69d471baac19d2ac",
-      "last_sync": "2025-11-27T09:48:14.178584"
+      "en_us_hash": "1b6804ef85dc41a3c78186a7e409f4f303a03e103c82a0350d06c74bb0f61b56",
+      "zh_cn_hash": "791d600f4144ec10f8baa1db6031d1250e72bb1a8c99fa620db0ec088e4d206f",
+      "last_sync": "2025-11-28T10:46:22.861955"
     },
     "environmental": {
       "jar_name": "environmental-1.20.1-4.1.2.jar",
@@ -1444,9 +1444,9 @@
     },
     "entity_texture_features": {
       "jar_name": "entity_texture_features_1.20.1-forge-7.0.6.jar",
-      "en_us_hash": "3ee3eeebd21ec8a94c92c132c38d219a096aa926354ecf18335cc21d3cb4dded",
-      "zh_cn_hash": "2be6b215d08da858c8f0322ada544c7ac9c0f0fd0e97295985177bd91d6c7963",
-      "last_sync": "2025-11-27T09:48:14.184261"
+      "en_us_hash": "fd0563394fef930c0d6a012d221faeee6dbec7296ce2c9e61475f28df4056ba0",
+      "zh_cn_hash": "97acd074b01ed8b542a00a08becf8255506558d6bb41d4934d201aadc640db4e",
+      "last_sync": "2025-11-28T10:46:22.864860"
     },
     "escalated": {
       "jar_name": "escalated-1.1.0-create.6.0.6-mc.1.20.1-forge.jar",
@@ -1582,9 +1582,9 @@
     },
     "fancymenu": {
       "jar_name": "fancymenu_forge_3.8.1_MC_1.20.1.jar",
-      "en_us_hash": "8d131fab5d2185ab7bf1080180b96b36e00e7dc7fbbec8ff6122699d21c0617b",
-      "zh_cn_hash": "90c60e744be39b36e4e0330c999331b70b6433dd8c6beae3b62ff8bd1497494d",
-      "last_sync": "2025-11-27T09:48:14.548890"
+      "en_us_hash": "3602e641ee63397c68269d2a6e56e18ca303d4a4686a06ba2ea2157428f4a1e2",
+      "zh_cn_hash": "00986cb2da4bf42a8788a3434560791e9010deabb8e75d48bf5bf659705bbc70",
+      "last_sync": "2025-11-28T10:46:23.373436"
     },
     "farmingforblockheads": {
       "jar_name": "farmingforblockheads-forge-1.20.1-14.0.4.jar",
@@ -1708,9 +1708,9 @@
     },
     "fzzy_config": {
       "jar_name": "fzzy_config-0.7.3+1.20.1+forge.jar",
-      "en_us_hash": "32baece4fa96b9490d775ea1e45e3a42ccede5e48901ebebe29f2341e523117c",
+      "en_us_hash": "6f7973f52a07bfaa3154e069ae14821381f36457f6c596b0910d8830c1cd1895",
       "zh_cn_hash": null,
-      "last_sync": "2025-11-21T15:54:59.640790"
+      "last_sync": "2025-11-28T10:46:23.459503"
     },
     "galosphere": {
       "jar_name": "Galosphere-1.20.1-1.4.1-Forge.jar",
@@ -1870,9 +1870,9 @@
     },
     "hexcasting": {
       "jar_name": "hexcasting-forge-1.20.1-0.11.3.jar",
-      "en_us_hash": "1e0ae7dc3e9b221598a77f5cf37a7989aba717c819befb703ec4cfe4c33689ea",
-      "zh_cn_hash": "4c76bd7365bf6f2e57bcc2b910f080a4cb6775cae3662f785e6af69c3d12ed8e",
-      "last_sync": "2025-11-27T09:48:15.105266"
+      "en_us_hash": "aa59c57ce26ec71725ae296cf22d40b1e434ce9ccf200dcb1c5b021c210eebad",
+      "zh_cn_hash": "a529fbbb81efc42aee319c36dd0b04ecf5ee15ac5e52a0576701f60da27e7dfb",
+      "last_sync": "2025-11-28T10:46:23.973422"
     },
     "hexparse": {
       "jar_name": "hexParse-forge-1.20.1-1.5.1.jar",
@@ -2386,9 +2386,9 @@
     },
     "modernfix": {
       "jar_name": "modernfix-forge-5.25.1+mc1.20.1.jar",
-      "en_us_hash": "8e44773f9909969b241759cc61594100b3a15fbf67f7a4eb4bfdc785bd3c008c",
-      "zh_cn_hash": "1ea86d86c45758f4ea09d896861c2d0edde0e12bf4bdf831047eb99cb7e599b9",
-      "last_sync": "2025-11-21T15:55:01.773547"
+      "en_us_hash": "102645aac73ef8943d24ae2c88ac971be2165080a812919800fe33b26750500e",
+      "zh_cn_hash": "78304fd119cfb71f618c237803308ba75a0c4000c97490ef5aefb8279218e2d0",
+      "last_sync": "2025-11-28T10:46:24.691035"
     },
     "modulargolems": {
       "jar_name": "modulargolems-2.6.12.jar",
@@ -2656,9 +2656,9 @@
     },
     "parcool": {
       "jar_name": "ParCool-1.20.1-3.4.2.0.jar",
-      "en_us_hash": "520763fab15d45bee581bd77540d91fe397a66f7d9854894989f54d0375f84d2",
-      "zh_cn_hash": "d3d5255ccf2965a67e2ecfc587f0460b4a55ffe0a96152dcc53da0582bf473fe",
-      "last_sync": "2025-11-27T09:48:16.004195"
+      "en_us_hash": "72a7c9e3699b00b2062f385e3063bad61a32fcc5008880b4d3b0fedde73dac17",
+      "zh_cn_hash": "d462a885ae20588e746467088372f50e05272448ca095369a7ac91e68e15f64b",
+      "last_sync": "2025-11-28T10:46:24.961408"
     },
     "passablefoliage": {
       "jar_name": "PassableFoliage-1.20.1-forge-8.2.1.jar",
@@ -2674,9 +2674,9 @@
     },
     "patchouli": {
       "jar_name": "Patchouli-1.20.1-84.1-FORGE.jar",
-      "en_us_hash": "6dfd19c9bcb8f063db5ea00b98fa6783118fdbf31a92a44c90304725692a5555",
-      "zh_cn_hash": "90292dc25176b6fbe3ba53c93ce8cdadd55a0e00311f5fccfc262e20482ba89e",
-      "last_sync": "2025-11-21T15:55:02.478956"
+      "en_us_hash": "d9e17c9b9c785f7a9b2dca3b8c100f5229e5dc9a1406bae74f67bbe2fbd7c05e",
+      "zh_cn_hash": "11089c2fb623b40d34d7b8e1d5ec1c6f55fcc4ae1f7c45643f42e45a09d4ced9",
+      "last_sync": "2025-11-28T10:46:24.962601"
     },
     "peacefulmoon": {
       "jar_name": "PeacefulMoon-1.20.1-1.0.1.jar",
@@ -2825,8 +2825,8 @@
     "quark": {
       "jar_name": "Quark-4.0-462.jar",
       "en_us_hash": "ea34b35024a4e7747d931031ba5c515c09ef06dd8d804d83a2349503148ee7e5",
-      "zh_cn_hash": "1d6e0d943812668c02b8de17ddbe1c80719ecadf560c9e9eb7fb45ac2a6ddf2e",
-      "last_sync": "2025-11-21T15:55:03.144358"
+      "zh_cn_hash": "b1dc52f44a74e13fcb4f763b84b5d430eb33211e441eb5927fffe5ae84aaf205",
+      "last_sync": "2025-11-28T10:46:25.241972"
     },
     "raided": {
       "jar_name": "Raided-1.20.1-0.1.6.jar",
@@ -3040,9 +3040,9 @@
     },
     "sebastrnlib": {
       "jar_name": "sebastrnlib-4.0.0.jar",
-      "en_us_hash": "5ce39f095b3b12b1b3b8d4f2d1368154364a3e621631f0cda5e9c92964a03898",
+      "en_us_hash": "d15feef69abfa2843e4d630e2cc173da87f6a202f5070a777c920ef3f910ffbf",
       "zh_cn_hash": null,
-      "last_sync": "2025-11-21T15:55:03.858996"
+      "last_sync": "2025-11-28T10:46:25.573457"
     },
     "shadowizardlib": {
       "jar_name": "shadowizardlib-1.20.1-1.3.1.jar",
@@ -3664,9 +3664,9 @@
     },
     "unionlib": {
       "jar_name": "UnionLib-1.20.1-12.1.1-Forge-all.jar",
-      "en_us_hash": "b85f64012bab6b20bbbb7165f4148b7eb3878e01ff492fb41d7a0aba0e01ee37",
+      "en_us_hash": "620ca3a46a337a261e41f88219bcb497efbdcc7032fe8b674bd7ad81dd869d39",
       "zh_cn_hash": null,
-      "last_sync": "2025-11-21T15:55:06.013081"
+      "last_sync": "2025-11-28T10:46:26.636871"
     },
     "underground_village": {
       "jar_name": "underground_village-1.5.5.jar",
@@ -3700,9 +3700,9 @@
     },
     "usefulslime": {
       "jar_name": "UsefulSlime-forge-1.20.1-1.8.1.jar",
-      "en_us_hash": "35a5b1adce4e4de64afe85d7c166dbaf22104e471f17308c0ec78843125134a2",
+      "en_us_hash": "30e861b91b4e1a09a5e3b6d7440d54ed1b4553704b0ad16c2d5475446ebdd0b2",
       "zh_cn_hash": null,
-      "last_sync": "2025-11-21T15:55:06.124586"
+      "last_sync": "2025-11-28T10:46:26.675911"
     },
     "upgrade_aquatic": {
       "jar_name": "upgrade_aquatic-1.20.1-6.0.3.jar",

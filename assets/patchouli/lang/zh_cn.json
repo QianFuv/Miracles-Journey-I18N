@@ -27,6 +27,7 @@
   "patchouli.gui.lexicon.chapters": "章节",
   "patchouli.gui.lexicon.editor": "书本编辑器",
   "patchouli.gui.lexicon.editor.mock_header": "测试用页头",
+  "patchouli.gui.lexicon.editor.info": "这个编辑器是给 Patchouli 的书页准备的，主要面向开发或翻译时的测试。对普通玩家来说没有用途。$(br2)参阅 $(l:https://github.com/Vazkii/Patchouli/wiki/Text-Formatting-101)Patchouli Wiki$() 了解更多关于控制字符的内容。",
   "patchouli.gui.lexicon.shift_for_recipe": "Shift点击以显示合成",
   "patchouli.gui.lexicon.index": "总目录",
   "patchouli.gui.lexicon.index.info": "这是此书所有章节的目录。$(br2)在这个界面中，你可以直接打字以查询某一个章节或某个类别，在你输入内容后，会弹出一个搜索框以协助搜索。",

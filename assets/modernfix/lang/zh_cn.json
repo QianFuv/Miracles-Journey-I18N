@@ -42,6 +42,7 @@
   "modernfix.option.mixin.perf.dedicated_reload_executor": "全版本共有。将资源包和数据包的重载任务转移到一个专门的工作线程上，而不是使用默认的主工作线程。这让流畅加载（Smooth Boot）模组在运行时仍然可能提高单人游戏的性能，同时不会因为线程数量限制减慢启动速度。",
   "modernfix.option.mixin.perf.deduplicate_location": "全版本共有，但由于会影响加载时间，默认禁用。对资源位置的命名空间和路径进行去重。这节省了内存，但也大大增加了新资源位置的构造成本。",
   "modernfix.option.mixin.perf.dynamic_dfu": "全版本共有。修改了DFU的初始化，使其仅在第一次需要升级数据时加载。这听起来类似DFU载入优化，但实现方式截然不同，因为它能避免加载§o任何§rDFU类/数据结构，而DFU载入优化只是禁用其规则优化。本质上说，这是一个DataFixerSlayer的安全版本，因为它仍然会在需要时加载DFU。\n\n即使启用了这个选项，你也应该继续使用DFU载入优化，否则DFU规则优化依然会导致卡顿。",
+  "modernfix.option.mixin.perf.dynamic_resources": "全版本共有。详见https://github.com/Kasualix/ModernFix/wiki/动态资源加载---常见问题解答。",
   "modernfix.option.mixin.perf.dynamic_sounds": "全版本共有。允许游戏卸载声音，而不是在加载声音后无限期地保留它们。",
   "modernfix.option.mixin.perf.dynamic_structure_manager": "全版本共有。允许游戏在结构生成结束后卸载结构文件，而非让它们永远处于已加载状态。",
   "modernfix.option.mixin.perf.fast_registry_validation": "全版本共有。每次验证注册时，Forge都会通过反射来查找一个方法，这完全没必要。这个补丁简单地缓存了方法的返回值，因为它每次都是一样的。",

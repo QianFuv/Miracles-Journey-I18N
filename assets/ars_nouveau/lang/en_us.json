@@ -103,6 +103,7 @@
   "ars_nouveau.automation": "Automation",
   "ars_nouveau.automation_desc": "Magical Automation",
   "ars_nouveau.binding_inventories": "Binding Inventories",
+  "ars_nouveau.book.landing_text": "Ars Nouveau provides spell crafting, magical devices, powerful trinkets, and magical entity automation. To help  development or report issues, join the community: https://discord.gg/y7TMXZu Thank you for playing.",
   "ars_nouveau.book.name": "Worn Notebook",
   "ars_nouveau.bookwyrm.strict_mode": "Strict mode set to %s",
   "ars_nouveau.bound_script": "Bound Script: %s",

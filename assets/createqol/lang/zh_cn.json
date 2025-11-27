@@ -173,6 +173,7 @@
   "createqol.statue.skinTab.desc": "Did you know that Minecraft Skins are encoded in Base64?\nYes it's useless I know.",
   "createqol.statue.transformTab.desc": "The scale doesn't modify the hitbox of the entity",
   "createqol.statue.inventoryTab.desc": "The items in this tab aren't consumed,\nthere are copied and can't be dropped by the statue.",
+  "createqol.statue.rotationPresetTab.desc": "The presets are extracted from the datapack Armor Statues,\nit's available on https://vanillatweaks.net .",
   "createqol.statue.hatTab.desc": "The slider are normally parts of the UI of Create trains.",
   "createqol.statue.left_sleeveTab.desc": "",
   "createqol.statue.left_pants_legTab.desc": "",
@@ -297,5 +298,6 @@
   "createqol.gui.tooltips_config_screen.disable_all": "Disable All",
   "createqol.gui.tooltips_config_screen.title": "Configure %s Tooltips",
   "createqol.gui.display_board.glowing": "Glowing",
-  "createqol.client_message.header": "[Create: Quality Of Life]: "
+  "createqol.client_message.header": "[Create: Quality Of Life]: ",
+  "createqol.client_message.warning": "Warning: Stock Manager is a beta feature, some bugs and crash might appear.\nPlease report them on https://issues-qol.iglee.fr"
 }
